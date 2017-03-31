@@ -1,7 +1,7 @@
 # Displug
 A discord bot to control music played on plug.dj.
 # Install
-This is my first shot at a Discord bot, a github repository and javascript so apologies for anything not going smoothly. So here goes nothing:
+This is my first shot at a Discord bot, a github repository and javascript so apologies for anything not going smoothly. Big thanks to the plugcubed community and their plugAPI! So here goes nothing:
 - Make sure you have a valid app (bot) invited to your Discord server
 - Make sure you install node.js version 6 or newer
 - Download this repository to a local folder
