@@ -13,6 +13,6 @@ This is my first shot at a Discord bot, a github repository and javascript so ap
   - 10: Plug.dj username that you gave to your bot account
   - 11: The plug.dj room name that you want your bot to connect to.
 
-Once this is all done, you should be able to start the bot by typing "node ." in the command prompt.
+Once this is all done, you should be able to start the bot by typing **node .** in the command prompt.
 # Usage
 By default, the prefix for the bot is +, so type +help to get started.
