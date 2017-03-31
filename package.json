@@ -1,0 +1,17 @@
+{
+  "name": "displug",
+  "version": "1.0.0",
+  "description": "A discord bot to control music played on plug.dj.",
+  "main": "index.js",
+  "repository": "",
+  "author": "WacMan",
+  "license": "ISC",
+  "dependencies": {
+    "async": "~0.2.8",
+    "discord.js": "^11.0.0",
+    "express": "~3.2.4",
+    "socket.io": "~0.9.14",
+    "superagent": "^3.5.2",
+    "ytdl-core": "^0.10.3"
+  }
+}
