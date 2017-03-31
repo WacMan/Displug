@@ -15,4 +15,4 @@ This is my first shot at a Discord bot, a github repository and javascript so ap
 
 Once this is all done, you should be able to start the bot by typing **node .** in the command prompt.
 # Usage
-By default, the prefix for the bot is +, so type +help to get started.
+By default, the prefix for the bot is +, so type +help to get started. Bot only responds to commands from Discord for now. No interaction from plug.dj.
